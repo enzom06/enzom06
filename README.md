@@ -4,7 +4,7 @@
 - 📫 You can reach me at this address @pm.com
 
 Mon premier objectif ici sera de réaliser des projets de petit ou grands empleur pour étoffer la page github et apprendre de nouvelle competence (ou maj un déja réalisé sur la page).
-Objectif: en ajouter au moins un par mois à partir de mars 2022 à noter ici + d'autres qui seront en privé.
+Objectif: en ajouter au moins un par mois à partir de mars 2022 à noter ici + d'autres non contabilisé qui seront en privé.
 
 projets pour le challenges (package):
 mars:2022:Robot d'Arbitrage (websoskets, threading, ...)
