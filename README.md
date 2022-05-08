@@ -5,8 +5,7 @@
 
 Mon premier objectif ici sera de réaliser des projets pour étoffer la page github (en public mais surtout en privée) et apprendre de nouvelles competences (ou maj un déja réalisées sur la page).
 
-Objectif: en ajouter au moins un par mois à partir de mars 2022 à noter ici
-+ d'autres non contabilisé qui seront en privé.
+Objectif: en ajouter au moins un par mois à partir de mars 2022 à noter ici + d'autres non contabilisé qui seront en privé.
 
 projets pour le challenges (package):
 
