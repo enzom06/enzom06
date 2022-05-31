@@ -14,6 +14,8 @@ projets pour le challenges (package):
 mars: Robot d'Arbitrage (websoskets, threading, ...)
 
 avril: Site pour l'envoie de message différé (html, css, php, sql)
+
+mai: Site pour poster un message en enchérissant en crypto (solidity, html, css)
 <!---
 enzom06/enzom06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
